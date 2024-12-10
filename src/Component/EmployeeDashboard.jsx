@@ -1,6 +1,6 @@
 import React from 'react'
 import EmployHeader from './EmployHeader'
-import Tasklist from './Tasklist'
+import Tasklist from './TaskList'
 import ListTask from './ListTask'
 
 const EmployeeDashboard = ({changeUser,data}) => {
